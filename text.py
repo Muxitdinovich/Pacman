@@ -64,7 +64,7 @@ class TextGroup(object):
         self.alltext[PAUSETXT] = Text("PAUSE!", YELLOW, 10.625*TILEWIDTH, 20*TILEHEIGHT, size, visible=False)
         self.alltext[GAMEOVERTXT] = Text("GAME OVER!", YELLOW, 10*TILEWIDTH, 20*TILEHEIGHT, size, visible=False)
         self.addText("Счет", WHITE, 0, 0, size)
-        self.addText("Уревень", WHITE, 23*TILEWIDTH, 0, size)
+        self.addText("Socer", WHITE, 23*TILEWIDTH, 0, size)
 
     def update(self, dt):
         for tkey in list(self.alltext.keys()):
