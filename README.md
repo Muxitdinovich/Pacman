@@ -5,10 +5,12 @@ Pacman:
 <pre>
 pip install pygame
 
-git clone https://github.com/Muxitdinovich/telespam.git
+git clone https://github.com/Muxitdinovich/Pacman.git
+
+cd Pacman
 </pre>
 Run:
 <pre>
-python telespam.py
+python run.py
 </pre>
 Поддержка: https://hablonly.netlify.app 👈
