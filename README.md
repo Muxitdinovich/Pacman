@@ -3,7 +3,7 @@
 
 Pacman:
 <pre>
-pip install PyAutoGUI
+pip install pygame
 
 git clone https://github.com/Muxitdinovich/telespam.git
 </pre>
